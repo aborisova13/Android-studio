@@ -2,4 +2,4 @@
 Android studio это приложение в котором можно создать своё приложение для телефона
 # ScreenShot:
 
-![image](https://github.com/user-attachments/assets/54252d45-6747-4170-9112-2d1dbabb7916)
+![image](https://habrastorage.org/r/w1560/getpro/habr/upload_files/58f/488/d66/58f488d6644400a7b44df9608bb2cea8.jpg)
